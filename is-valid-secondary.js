@@ -3,7 +3,7 @@
  ******************/
 
 function isValidSecondary(color){
-  return color === 'purple' || color === 'orange' || color === 'green'
+  return (color === 'purple' || color === 'orange' || color === 'green')
 }
 
 // Our setup code here. Don't touch!
